@@ -1,6 +1,23 @@
 # Community Meet-Up Mini Project API Documentation
 This project provides a platform for community users to register and participate in meet-ups. It is built using Servlet, Maven, and Hibernate.
 
+## Getting started
+1.Clone the repository
+```text
+git clone https://github.com/palpandi-a/meetup.git
+```
+
+2.Build the project
+```text
+mvn clean install
+```
+
+3.Deploy:
+Deploy the generated WAR file to your servlet container (e.g., Apache Tomcat).
+
+4.Access the API:
+Use tools like Postman or cURL to interact with the API endpoints.
+
 ## API Documentation
 
 ### Authorization APIs
